@@ -1,0 +1,7 @@
+{
+  "name": "Smart Solutions Lanka",
+  "description": "Premium IT solutions portal and hardware store for Smart Solutions Lanka Pvt Ltd, featuring localized inventory, AI assistance, and WhatsApp order integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
